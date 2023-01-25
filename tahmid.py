@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("trail").লাস্ট xxr()
+    __import__("trail").xxr()
 except Exception as e:
     exit(str(e))
